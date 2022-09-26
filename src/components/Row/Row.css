@@ -1,0 +1,12 @@
+.row {
+  display: flex;
+  column-gap: 2rem;
+  font-size: 1.3rem;
+  color: black;
+}
+
+.row > div {
+  border: double 5px rgb(255, 255, 255);
+  border-radius: 0.5em 1.5em 0.5em;
+  padding: 1rem;
+}
